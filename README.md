@@ -13,3 +13,13 @@ Install them using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib
+```
+
+How to run the notebook:
+```bash
+pip install notebook
+```
+Launch Jupyter:
+```bash
+jupyter notebook
+```
